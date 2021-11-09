@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/16143344/141005583-c25fe4df-b036-4fae-bc0e-0190f3bf4a82.png)
+
 
 <!--
 **alexberndt/alexberndt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
