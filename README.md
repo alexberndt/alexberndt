@@ -6,7 +6,7 @@ I am a machine learning engineer at Dashmote B.V. where I work on solving a wide
 
 ## Projects
  
-| **ISS Tracker**        |  **Data-Driven Diary**           |
+| **ISS Tracker**        |  **The Data-Driven Developer**           |
 |:-------------: | :-------------: | 
 | [iss-tracker.live](https://iss-tracker.live)      |  [blog.alexberndt.com](https://blog.alexberndt.com) | 
 | <img src="https://user-images.githubusercontent.com/16143344/141009232-75425215-51b5-4415-b90b-27af09efc7bd.jpg" alt="drawing" width="800"/> | <img src="https://user-images.githubusercontent.com/16143344/141009236-e39e1c15-c946-4534-b08f-6ee0e3bc5377.jpg" alt="drawing" width="800"/> |
