@@ -2,7 +2,7 @@
 
 ## Bio
 
-I am a machine learning engineer at Overstory.ai where I work on solving a wide variety of data-related problems. My main focus is on designing, implementing and orchestrating machine learning pipelines. This not only involves ensuring we use the best ML models, theoretically, but ensuring these pipelines are scalable and efficient in production.
+I am a machine learning engineer at [Overstory](https://www.overstory.com/) where I work on solving a wide variety of geospatial data-related problems. My main focus is on designing, implementing and orchestrating machine learning pipelines. This not only involves ensuring we use the best ML models, theoretically, but ensuring these pipelines are scalable and efficient in production.
 
 ## Projects
 
